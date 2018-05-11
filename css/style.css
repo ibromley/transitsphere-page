@@ -576,6 +576,12 @@
 				width: 100%;
 			}
 
+			.image.fit .logo img {
+				max-height: 10px;
+				height: 70%;
+				
+			}
+
 /* List */
 
 	ol {
