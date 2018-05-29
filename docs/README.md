@@ -1,4 +1,4 @@
-<img align="left" width="210" src="https://raw.githubusercontent.com/ibromley/transitsphere-page/master/images/transitsphere_logo.png"> 
+<img width="200" src="https://raw.githubusercontent.com/ibromley/transitsphere-page/master/images/transitsphere_logo.png"> 
 
 # TransitSphere
 ### _Explore Seattle's 20 Billion Dollar Transportation Infrastructure_
