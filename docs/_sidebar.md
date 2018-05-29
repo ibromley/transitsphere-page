@@ -4,8 +4,6 @@
 * Customization
     * [Update Data](dataedit.md)
     * [List of packages](#)
-    * [Update data files](#)
 * Deployment
     * [Grunt Tasks](grunttasks.md)
-    * [Deploy](#)
-    * [Hosting](#)
+    * [Deployment](deployment.md)
