@@ -2,7 +2,7 @@
     * [Quick Start](quickstart.md)
     * [Project Structure](projstruct.md)
 * Customization
-    * [Configuration](#)
+    * [Update Data](dataedit.md)
     * [List of packages](#)
     * [Update data files](#)
 * Deployment
